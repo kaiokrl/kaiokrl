@@ -30,15 +30,11 @@
 </div>
 
 <hr>
-<h2>📊 GitHub Stats:</h2>
+<h2>📊 My github stats:</h2>
 <div>
   
-<p>
-  
-![](https://github-readme-stats.vercel.app/api?username=kaiokrl&theme=prussian&hide_border=false&include_all_commits=true&count_private=true)![](https://github-readme-streak-stats.herokuapp.com/?user=kaiokrl&theme=prussian&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiokrl&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</p>
+  ![](https://github-readme-stats.vercel.app/api?username=kaiokrl&theme=prussian&hide_border=false&include_all_commits=true&count_private=true)![](https://github-readme-streak-stats.herokuapp.com/?user=kaiokrl&theme=prussian&hide_border=false)<br>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiokrl&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
