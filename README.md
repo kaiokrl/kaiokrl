@@ -12,7 +12,7 @@
 <br> 
   <a href="https://www.linkedin.com/in/kaio-mendes-6bb1a22b6/" target="_blank" rel="external">
 <img align="center" alt="KAIO-LINKEDIN" height="22,5" width="90" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://discord.com/channels/@me" target="_blank" rel="external"><img align="center" alt="KAIO-DISCORD" height="22,5" width="90" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> </a>
+<a href="https://discordapp.com/users/444920476565766144" target="_blank" rel="external"><img align="center" alt="KAIO-DISCORD" height="22,5" width="90" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> </a>
     <blockquote>🌱 <em><a href="https://www.youtube.com/watch?v=HeOLas58buw" target="_blank" rel="external">Yesterday is history, tomorrow is a mystery, but today is a gift, that's why it's called "the present"</a></em></blockquote>
   </p>
     
